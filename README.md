@@ -1,7 +1,6 @@
 # Elisabeth_dev
 
-Estudiante en Centro de Referencia Nacional de Desarrollo informático y comunicaciones
-terminando el curso Programacion de lenguajes orientados a Objetos y BBDD relacionables
+ Certificado profesional IFCD0112  (Programacion de lenguajes orientados a Objetos y BBDD relacionables) en el CRN. 
 
 Cursando el ciclo Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 
 en C.I. F.P. Federica Montseny
