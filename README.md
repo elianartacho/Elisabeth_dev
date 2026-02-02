@@ -3,7 +3,7 @@
 Estudiante en Centro de Referencia Nacional de Desarrollo informático y comunicaciones
 terminando el curso Programacion de lenguajes orientados a Objetos y BBDD relacionables
 
-Iniciando el ciclo Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 
+Cursando el ciclo Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 
 en C.I. F.P. Federica Montseny
 Desde Madrid, apasionada por la tecnología y en constante aprendizaje  
 Actualmente aprendiendo **Java, SQL, HTML, CSS y JavaScript**
